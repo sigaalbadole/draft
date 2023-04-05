@@ -45,7 +45,7 @@ h2{
 .about{
     padding: 7% 10%;
 }
-@media (max-width : 844px){
+@media (max-width : 900px){
     .CompanyName{
         left: 35%;
     }
